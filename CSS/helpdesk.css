@@ -18,14 +18,14 @@ h1 {
        
 p { 
     font-family: arial;
-    color: #646464;
+    color: #e3e3e3;
     text-decoration: italic;
     text-align: center;
 }
 
 h4 { 
     font-family: arial;
-    color: #646464;
+    color: #eeeeee;
     width: 50%;
     text-align: justify;
     margin-left: 15vw;
@@ -37,7 +37,7 @@ input {
         border: none;
         width: 90%;
         height: auto;
-        color: #c7c7c7;
+        color: #414141;
         font-family: calibri;
         font-size: 140%;
         margin-left: 70px;
